@@ -3,6 +3,7 @@ Java program that reads in specially formatted text and creates the correspondin
 
 The visual representation uses Java Swing to display animations.
 
+**Note:** Code must be kept private per course restrictions. If you would like to view it, please email me at eng.m@husky.neu.edu
 
 ## Features
 
